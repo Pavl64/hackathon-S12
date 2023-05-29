@@ -1,0 +1,20 @@
+.element {
+    display: none;
+  }
+  
+  .show {
+    display: block;
+  }
+  
+  .menu li {
+    list-style-type: none;
+    cursor: pointer;
+  }
+  
+  .element p {
+    margin: 0;
+  }
+  
+  
+  
+  
